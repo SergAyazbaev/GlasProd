@@ -1,1 +1,0 @@
-import{E as e,R as t,S as n,t as r,y as i}from"./index-s-DdKhv0.js";import{t as a}from"./StreamPublisher-Ctj5rq_k.js";var o={class:`publish-view`},s=r({__name:`PublishMiniView`,setup(r){return(r,s)=>(t(),n(`div`,o,[s[0]||=i(`h1`,null,`Создать трансляцию`,-1),e(a)]))}},[[`__scopeId`,`data-v-60c77d02`]]);export{s as default};
