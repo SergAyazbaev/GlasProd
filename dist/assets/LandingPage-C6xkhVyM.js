@@ -1,1 +1,0 @@
-import{R as e,S as t}from"./index-BEYRgDa1.js";var n={href:`landing.html`,class:`text-blue-500 hover:underline mb-4 inline-block`},r={__name:`LandingPage`,setup(r){return window.location.replace(`/landing.html`),(r,i)=>(e(),t(`a`,n,`Landing`))}};export{r as default};

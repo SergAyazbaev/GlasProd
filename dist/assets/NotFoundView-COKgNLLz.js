@@ -1,0 +1,1 @@
+import{R as e,S as t,t as n,y as r}from"./index-s-DdKhv0.js";var i={},a={class:`p-6 text-center text-gray-600`};function o(n,i){return e(),t(`div`,a,[...i[0]||=[r(`h1`,{class:`text-2xl font-bold`},`🔍 Страница не найдена`,-1),r(`p`,null,`Проверьте URL или вернитесь на главную.`,-1)]])}var s=n(i,[[`render`,o]]);export{s as default};
