@@ -1,1 +1,0 @@
-var e=`/assets/cargo-BMsHxc2b.jpg`;export{e as t};
